@@ -6,5 +6,9 @@
   {
     "url": "meraki.cisco.com",
     "port": "443"
+  },
+  {
+    "url": "cliente.havan.com.br",
+    "port": "443"
   }
 ]
