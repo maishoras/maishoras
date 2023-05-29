@@ -8,7 +8,7 @@
     "port": "443"
   },
   {
-    "url": "cliente.havan.com.br",
+    "url": "127.0.0.1/about/",
     "port": "443"
   }
 ]
